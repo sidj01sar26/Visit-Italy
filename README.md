@@ -8,7 +8,6 @@ One can click the "Not Interested" button to hide the city.
 By clicking "Not Interested" on all the cities, the page will display "No Tours Left".                                   
 Also, after this, there will be a refresh button, by clicking that, all the cities will appear on the page again.
 
-
 This project is built using ReactJs.
 
 
