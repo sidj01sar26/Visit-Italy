@@ -10,9 +10,8 @@ This project is created using ReactJS.
 
 1. Install NodeJS
 2. Install ReactJS                                                                                                                                       
-   Start Visual Code
-   Open Terminal
-   type create-react-app myapp & Enter, this will install all of the dependencies to build and run.
+3. Start Visual Code, Open Terminal, and type                                                                                              
+   " create-react-app myapp " & enter, this will install all of the dependencies to build and run.
 
 ## Run this application
 1. Open Visual Studio
