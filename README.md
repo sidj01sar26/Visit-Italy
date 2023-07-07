@@ -23,7 +23,7 @@ This project is built using ReactJs.
 1. Open Visual Studio
 2. Open the folder where you have saved this project
 3. Open Terminal
-4. Type npm run start & enter
+4. Type "npm run start" & enter
    
 
 Open <a href="http://localhost:3000">http://localhost:3000</a> in your browser.
