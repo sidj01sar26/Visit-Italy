@@ -9,7 +9,7 @@ This project is created using ReactJS.
 ## Install ReactJs
 
 1. Install NodeJS
-2. Install ReactJS
+2. Install ReactJS                                                                                                                                       
    Start Visual Code
    Open Terminal
    type create-react-app myapp & Enter, this will install all of the dependencies to build and run.
