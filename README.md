@@ -1,6 +1,6 @@
 # Visit-Italy
-This project is about showing up famous cities in Italy.                                                                           
-Here you can see the description and the cost if someone would like to visit any of these cities.                                                         
+This project is about showing up some famous cities in Italy.                                                                           
+Here you can see the description and the cost if someone wants to visit any of these cities.                                                         
 
 
 
@@ -8,7 +8,7 @@ One can click the "Not Interested" button to hide the city.
 By clicking "Not Interested" on all the cities, the page will display "No Tours Left".                                   
 Also, after this, there will be a "Refresh" button, by clicking that, all the cities will appear on the page again.
 
-This project is built using ReactJs.
+This project is built using React.js
 
 
 ## Install ReactJs
@@ -16,7 +16,7 @@ This project is built using ReactJs.
 1. Install NodeJS
 2. Install ReactJS                                                                                                                                       
 3. Start Visual Code, Open Terminal,
-   and type "create-react-app myapp" & enter, this will install all of the dependencies to build and run.
+   and type "create-react-app myapp" & enter, this will install all the dependencies to build and run.
 
 
 ## Run this application
