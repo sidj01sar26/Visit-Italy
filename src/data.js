@@ -53,9 +53,9 @@ const data = [
 		id: 6,
 		name: "Lake Como",
 
-		info: "Lake Como, in Northern Italy's Lombardy region, is an upscale resort area known for its dramatic scenery, set against the foothills of the Alps. The lake is shaped like an upside-down Y, with three slender branches that meet at the resort town of Bellagio. At the bottom of the southwest branch lies the city of Como, home to Renaissance architecture and a funicular that travels up to the mountain town of Brunate.It is one of the most popular tourist attractions in the world",
+		info: "Lake Como, in Northern Italy's Lombardy region, is an upscale resort area known for its dramatic scenery, set against the foothills of the Alps. The lake is shaped like an upside-down Y, with three slender branches that meet at the resort town of Bellagio. At the bottom of the southwest branch lies the city of Como, home to Renaissance architecture and a funicular that travels up to the mountain town of Brunate.",
 
-		image: "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/024/621/medium/588dd532cfeaa78befa7c97903753ac3/italy-lake-como-villa-del-balbianello-100418-ch.jpg",
+		image: "https://imageio.forbes.com/specials-images/imageserve/646b6b45d9b20ac15900fd8a/0x0.jpg?format=jpg&width=1200",
 		price: "1,800",
 	},
 
@@ -82,7 +82,7 @@ const data = [
 	{
 		id: 9,
 		name: "Turin",
-		
+
 		info: "Turin is the capital city of Piedmont in northern Italy, known for its refined architecture and cuisine. The Alps rise to the northwest of the city. Stately baroque buildings and old cafes line Turin's boulevards and grand squares such as Piazza Castello and Piazza San Carlo. Nearby is the soaring spire of the Mole Antonelliana, a 19th-century tower housing the interactive National Cinema Museum.",
 
 		image: "https://tourismmedia.italia.it/is/image/mitur/20220223132855-piazza-san-carlo-torino-piemonte-shutterstock-2102981095-rid-1?wid=1080&hei=660&fit=constrain,1&fmt=webp",
